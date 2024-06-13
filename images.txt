@@ -1,1 +1,2 @@
-k8s.gcr.io/sig-storage/csi-resizer:v1.3.0
+k8s.gcr.io/sig-storage/csi-snapshotter:v4.2.0
+quay.io/ceph/ceph:v18.2.2

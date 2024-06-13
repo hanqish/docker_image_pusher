@@ -1,1 +1,1 @@
-busybox:latest
+rook/ceph:master

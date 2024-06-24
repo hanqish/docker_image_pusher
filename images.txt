@@ -1,7 +1,6 @@
 cloudnativelabs/kube-router
 grafana/grafana:9.5.3
 quay.io/brancz/kube-rbac-proxy:v0.14.2
-quay.io/fabxc/prometheus_demo_service
 quay.io/prometheus/alertmanager:v0.26.0
 quay.io/prometheus/blackbox-exporter:v0.24.0
 quay.io/prometheus/node-exporter:v1.6.1

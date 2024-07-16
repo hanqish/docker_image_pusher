@@ -6,5 +6,5 @@ goharbor/harbor-registryctl:v2.10.0
 goharbor/registry-photon:v2.10.0
 goharbor/harbor-jobservice:v2.10.0
 goharbor/harbor-core:v2.10.0
-goharbor/harbor-portal:2.10.0
-goharbor/nginx-photon:2.10.0
+goharbor/harbor-portal:v2.10.0
+goharbor/nginx-photon:v2.10.0

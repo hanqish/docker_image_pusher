@@ -1,3 +1,10 @@
-redis:6.2.7-alpine3.16
-registry.cn-shanghai.aliyuncs.com/acs/busybox:v1.29.2
-postgres:13.7-bullseye
+goharbor/harbor-exporter:v2.10.0
+goharbor/redis-photon:v2.10.0
+goharbor/harbor-db:v2.10.0
+goharbor/trivy-adapter-photon:v2.10.0
+goharbor/harbor-registryctl:v2.10.0
+goharbor/registry-photon:v2.10.0
+goharbor/harbor-jobservice:v2.10.0
+goharbor/harbor-core:v2.10.0
+goharbor/harbor-portal:2.10.0
+goharbor/nginx-photon:2.10.0

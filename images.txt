@@ -1,1 +1,3 @@
-bogeit/nfs-subdir-external-provisioner:v4.0.2
+redis:6.2.7-alpine3.16
+registry.cn-shanghai.aliyuncs.com/acs/busybox:v1.29.2
+postgres:13.7-bullseye

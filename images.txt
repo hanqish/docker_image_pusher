@@ -1,9 +1,1 @@
-quay.io/jupyterhub/k8s-hub:3.3.8
-quay.io/jupyterhub/configurable-http-proxy:4.6.1
-traefik:v2.11.0
-quay.io/jupyterhub/k8s-secret-sync:3.3.8
-quay.io/jupyterhub/k8s-network-tools:3.3.8
-quay.io/jupyterhub/k8s-singleuser-sample:3.3.8
-registry.k8s.io/kube-scheduler:v1.26.15
-registry.k8s.io/pause:3.9
-quay.io/jupyterhub/k8s-image-awaiter:3.3.8
+jupyter/minimal-notebook:2343e33dec46

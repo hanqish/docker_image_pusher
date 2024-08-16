@@ -1,1 +1,3 @@
-jupyter/minimal-notebook:2343e33dec46
+jupyter/datascience-notebook:2343e33dec46
+jupyter/all-spark-notebook:2343e33dec46
+jupyter/datascience-notebook:2343e33dec46

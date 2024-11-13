@@ -1,2 +1,1 @@
-
-juicefs-csi-driver:v0.25.2
+juicedata/mount:ce-v1.2.1

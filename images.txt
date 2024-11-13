@@ -1,1 +1,1 @@
-juicedata/mount:ce-v1.2.1
+busybox

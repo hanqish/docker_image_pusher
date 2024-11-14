@@ -1,1 +1,1 @@
-redis:5.0.6
+juicedata/mount:ee-5.1.2-59d9736

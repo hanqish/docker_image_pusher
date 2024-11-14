@@ -1,1 +1,1 @@
-busybox
+redis:5.0.6

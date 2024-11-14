@@ -1,1 +1,1 @@
-juicedata/mount:ee-5.1.2-59d9736
+redis:6.2.7-alpine3.16

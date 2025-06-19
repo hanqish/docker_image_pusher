@@ -1,1 +1,2 @@
 lmsysorg/sglang:latest
+nginx

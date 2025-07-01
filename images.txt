@@ -1,1 +1,1 @@
-ubuntu:22.04
+condaforge/miniforge3:24.7.1-0

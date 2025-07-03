@@ -1,1 +1,1 @@
-condaforge/miniforge3:24.7.1-0
+nginx

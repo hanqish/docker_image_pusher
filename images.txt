@@ -1,1 +1,1 @@
-nginx
+golang:alpine

@@ -1,1 +1,1 @@
-alpine
+flink:1.20

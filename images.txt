@@ -1,1 +1,2 @@
-conda/miniconda3:py310_24.1.2-0
+python:3.11
+

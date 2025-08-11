@@ -1,1 +1,1 @@
-python:3.12
+condaforge/miniforge3:23.11.0-0

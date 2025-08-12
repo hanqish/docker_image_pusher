@@ -1,1 +1,1 @@
-condaforge/miniforge3:23.11.0-0
+alpine

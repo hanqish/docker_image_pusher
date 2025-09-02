@@ -1,1 +1,1 @@
-openjdk:8u252-jre
+python:3.10-slim

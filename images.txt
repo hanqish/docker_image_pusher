@@ -1,1 +1,3 @@
-infiniflow/ragflow:v0.11.0-slim
+gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/webhook:v0.27.0@sha256:61731cd9c808f323c31bea941fd4786151cde3ff290e6c8ba43dda1d99e51c4c
+gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/controller:v0.27.0@sha256:dc82eeb35b4832333d6cb07b38bfe35175a129a6c6d5d4427bbf744cf46a16d8
+gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/interceptors:v0.27.0@sha256:a728853f093c7353075ac2abdfad4ca208629ee5ee4520a864fd89395cd9303b

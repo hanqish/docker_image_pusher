@@ -1,1 +1,1 @@
-registry.gitlab.com/gitlab/gitlab-runner:15.11.0
+docker.io/gitlab/gitlab-runner:15.11.0

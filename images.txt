@@ -1,1 +1,1 @@
-quay.io/argoproj/argocd:v3.0.6
+ghcr.io/apache/flink-kubernetes-operator:0315e91

@@ -1,1 +1,1 @@
-redis:7.0.5-debian-11-r7
+ ghcr.io/kubeflow/spark-operator/controller:2.3.0

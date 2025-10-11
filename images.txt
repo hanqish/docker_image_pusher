@@ -1,1 +1,1 @@
-emqx-exporter:latest
+redis:7.0.5-debian-11-r7

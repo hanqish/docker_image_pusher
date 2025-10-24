@@ -1,1 +1,1 @@
-docker.io/easzlab/pause:3.9
+docker.io/library/spark:4.0.0

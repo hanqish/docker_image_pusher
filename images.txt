@@ -1,1 +1,1 @@
-minio/minio
+infiniflow/ragflow:v0.11.0-slim

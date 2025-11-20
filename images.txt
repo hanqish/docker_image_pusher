@@ -1,1 +1,4 @@
-docker.io/bitnamilegacy/zookeeper:3.9.3-debian-12-r21
+apache/superset:dockerize
+oneacrefund/superset-websocket:latest
+apachesuperset.docker.scarf.sh/apache/superset:~
+oneacrefund/superset-websocket:latest

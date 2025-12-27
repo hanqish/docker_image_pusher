@@ -1,1 +1,1 @@
-bitnamilegacy/kafka-exporter:latest
+danielqsj/kafka-exporter:latest

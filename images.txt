@@ -1,1 +1,1 @@
-danielqsj/kafka-exporter:latest
+mysql:8.0.36

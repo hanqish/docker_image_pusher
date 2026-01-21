@@ -1,1 +1,1 @@
-filebrowser/filebrowser:latest
+flink:1.17.2

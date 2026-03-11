@@ -1,1 +1,1 @@
-dockurr/windows
+docker.io/library/elasticsearch:7.6.2

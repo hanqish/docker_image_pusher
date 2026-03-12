@@ -1,1 +1,1 @@
-registry-1.docker.io/bitnamilegacy/redis:latest
+flink:1.17.2

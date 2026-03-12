@@ -1,1 +1,1 @@
-docker.io/library/elasticsearch:7.6.2
+registry-1.docker.io/bitnamilegacy/redis:latest

@@ -1,1 +1,1 @@
-flink:1.17.2
+ dolphinscheduler-alert-server:3.4.0

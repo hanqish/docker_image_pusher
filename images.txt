@@ -1,1 +1,2 @@
- dolphinscheduler-alert-server:3.4.0
+dolphinscheduler-alert-server:3.4.0
+dolphinscheduler-tools:3.4.0

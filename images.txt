@@ -1,1 +1,1 @@
-cert-manager-acmesolver:v1.20.0
+cleanstart/cert-manager-acmesolver:v1.20.0

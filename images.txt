@@ -1,1 +1,1 @@
-node:14.21.3
+cert-manager-acmesolver:v1.20.0

@@ -1,1 +1,1 @@
-quay.io/jetstack/cert-manager-acmesolver:v1.20.0
+ghcr.io/apache/flink-kubernetes-operator:b40c553

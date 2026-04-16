@@ -1,1 +1,1 @@
-ghcr.io/apache/flink-kubernetes-operator:b40c553
+flink:1.22-java17

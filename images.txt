@@ -1,1 +1,1 @@
-flink:1.22-java17
+flink:1.20.2-java17

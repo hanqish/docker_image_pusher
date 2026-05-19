@@ -1,1 +1,1 @@
-ghcr.io/k8snetworkplumbingwg/whereabouts:latest
+kubevirtmanager/kubevirt-manager:nightly

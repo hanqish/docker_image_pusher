@@ -1,1 +1,1 @@
-kubevirtmanager/kubevirt-manager:nightly
+sonatype/nexus3:latest

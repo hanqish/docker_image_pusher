@@ -1,5 +1,2 @@
-registry.gitlab.cn/omnibus/gitlab-base-jh:v15.4.2-jh
-registry.gitlab.cn/omnibus/gitlab-webservice-jh:v15.4.2-jh
-registry.gitlab.cn/omnibus/gitlab-workhorse-jh:v15.4.2-jh
-registry.gitlab.cn/omnibus/gitlab-sidekiq-jh:v15.4.2-jh
-registry.gitlab.cn/omnibus/gitlab-toolbox-jh:v15.4.2-jh
+docker.io/bitnamilegacy/postgres-exporter:0.8.0-debian-10-r99
+docker.io/bitnamilegacy/redis-exporter:1.12.1-debian-10-r11

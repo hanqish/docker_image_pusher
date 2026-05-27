@@ -1,3 +1,5 @@
-registry.gitlab.cn/gitlab-jh/gitlab-webservice-ee:v15.4.2-jh
-registry.gitlab.cn/gitlab-jh/gitlab-sidekiq-ee:v15.4.2-jh
-registry.gitlab.cn/gitlab-jh/gitlab-toolbox-ee:v15.4.2-jh
+registry.gitlab.cn/omnibus/gitlab-base-jh:v15.4.2-jh
+registry.gitlab.cn/omnibus/gitlab-webservice-jh:v15.4.2-jh
+registry.gitlab.cn/omnibus/gitlab-workhorse-jh:v15.4.2-jh
+registry.gitlab.cn/omnibus/gitlab-sidekiq-jh:v15.4.2-jh
+registry.gitlab.cn/omnibus/gitlab-toolbox-jh:v15.4.2-jh

@@ -1,1 +1,3 @@
-registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:v14.47.0
+registry.gitlab.cn/gitlab-jh/gitlab-webservice-ee:v15.4.2-jh
+registry.gitlab.cn/gitlab-jh/gitlab-sidekiq-ee:v15.4.2-jh
+registry.gitlab.cn/gitlab-jh/gitlab-toolbox-ee:v15.4.2-jh

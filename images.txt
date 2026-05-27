@@ -1,9 +1,1 @@
-registry.gitlab.com/gitlab-org/build/cng/gitlab-webservice-ce:v15.4.2
-registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v15.4.2
-registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v15.4.2
-registry.gitlab.com/gitlab-org/build/cng/gitlab-toolbox-ce:v15.4.2
-registry.gitlab.com/gitlab-org/build/cng/gitaly:v15.4.2
-registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:v15.4.2
-registry.gitlab.com/gitlab-org/build/cng/gitlab-base:v15.4.2
-registry.gitlab.com/gitlab-org/build/cng/certificates:v15.4.2
-registry.gitlab.com/gitlab-org/build/cng/kubectl:v15.4.2
+registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:v14.47.0

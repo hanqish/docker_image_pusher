@@ -1,2 +1,2 @@
-docker pull registry.gitlab.com/gitlab-org/build/cng/certificates:v19.0.1
-docker pull registry.gitlab.com/gitlab-org/build/cng/kubectl:v19.0.1
+registry.gitlab.com/gitlab-org/build/cng/certificates:v19.0.1
+registry.gitlab.com/gitlab-org/build/cng/kubectl:v19.0.1

@@ -1,12 +1,1 @@
-registry.gitlab.com/gitlab-org/build/cng/kubectl:v15.11.13
-registry.gitlab.com/gitlab-org/build/cng/kubectl:v16.11.10
-registry.gitlab.com/gitlab-org/build/cng/kubectl:v16.3.9
-registry.gitlab.com/gitlab-org/build/cng/kubectl:v16.7.10
-registry.gitlab.com/gitlab-org/build/cng/kubectl:v17.11.7
-registry.gitlab.com/gitlab-org/build/cng/kubectl:v17.3.7
-registry.gitlab.com/gitlab-org/build/cng/kubectl:v17.5.5
-registry.gitlab.com/gitlab-org/build/cng/kubectl:v17.8.7
-registry.gitlab.com/gitlab-org/build/cng/kubectl:v18.11.4
-registry.gitlab.com/gitlab-org/build/cng/kubectl:v18.2.8
-registry.gitlab.com/gitlab-org/build/cng/kubectl:v18.5.7
-registry.gitlab.com/gitlab-org/build/cng/kubectl:v18.8.10
+ghcr.io/headlamp-k8s/headlamp:v0.42.0

@@ -1,1 +1,1 @@
-ghcr.io/oliver006/redis_exporter:v1.79.0
+docker.dinky.org.cn:32451/dinky/dev/dinky-txh:1.0.2

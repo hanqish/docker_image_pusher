@@ -1,1 +1,1 @@
-docker.dinky.org.cn:32451/dinky/dev/dinky-txh:1.0.2
+ghcr.io/rabbitmq/cluster-operator:2.21.1

@@ -1,1 +1,1 @@
-ghcr.io/rabbitmq/cluster-operator:2.21.1
+metabase/metabase:v0.58.6

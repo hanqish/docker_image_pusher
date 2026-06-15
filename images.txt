@@ -1,1 +1,1 @@
-metabase/metabase:v0.58.6
+metabase/metabase:v0.62.1.7

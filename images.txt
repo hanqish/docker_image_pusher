@@ -1,1 +1,1 @@
-quay.io/kubevirt/cdi-uploadserver:v1.65.0
+quay.m.daocloud.io/kubevirt/virtio-container-disk:v1.2.0

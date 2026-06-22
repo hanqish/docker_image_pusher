@@ -1,1 +1,3 @@
-metabase/metabase:v0.62.1.7
+quay.m.daocloud.io/kubevirt/cdi-uploadserver:v1.65.0
+quay.m.daocloud.io/kubevirt/cdi-importer:v1.65.0
+quay.m.daocloud.io/kubevirt/cdi-cloner:v1.65.0

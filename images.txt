@@ -1,1 +1,1 @@
-tchiotludo/akhq:0.27.0
+docker.getcollate.io/openmetadata/server:1.13.1

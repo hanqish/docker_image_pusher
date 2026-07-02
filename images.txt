@@ -1,1 +1,1 @@
-docker.getcollate.io/openmetadata/ingestion:1.13.1
+docker.io/bitnamilegacy/mysql:8.0.37-debian-12-r2

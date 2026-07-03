@@ -1,1 +1,1 @@
-docker.io/bitnamilegacy/mysql:8.0.37-debian-12-r2
+docker.getcollate.io/openmetadata/omjob-operator:1.13.1

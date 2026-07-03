@@ -1,1 +1,1 @@
-docker.getcollate.io/openmetadata/omjob-operator:1.13.1
+docker.getcollate.io/openmetadata/ingestion-base:latest

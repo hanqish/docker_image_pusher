@@ -1,1 +1,1 @@
-pingcap/tikv:v8.5.7
+quay.io/kubevirt/cdi-apiserver:v1.65.0

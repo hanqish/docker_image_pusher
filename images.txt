@@ -1,2 +1,1 @@
-quay.io/kubevirt/cdi-controller:v1.65.0
-quay.io/kubevirt/cdi-uploadproxy:v1.65.0
+registry.k8s.io/sig-storage/csi-provisioner:v6.3.0

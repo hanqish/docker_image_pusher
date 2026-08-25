@@ -1,1 +1,5 @@
-registry.k8s.io/sig-storage/csi-attacher:v4.10.0
+registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v19.2.4
+registry.gitlab.com/gitlab-org/build/cng/gitlab-toolbox-ce:v19.2.4
+registry.gitlab.com/gitlab-org/build/cng/gitlab-webservice-ce:v19.2.4
+registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v19.2.4
+registry.gitlab.com/gitlab-org/build/cng/kubectl:v19.2.4

@@ -1,3 +1,8 @@
-quay.io/metal3-io/ironic-standalone-operator@sha256:aa92a5e3ae955c936fe2d463af23e03df058e14cb6a98df116ed088840cecd42
-quay.io/metal3-io/ironic@sha256:b42511d20c9787b7032ce861cf658f4a3e28d7c04519a0f894cc93e1aa22ce4e
-quay.io/metal3-io/ironic-ipa-downloader@sha256:9cc5d35ccd1f724f46bcc37330cd09c78656de9e8b426ce4d84b17a621f8942
+registry.gitlab.com/gitlab-org/build/cng/certificates:v19.3.1
+registry.gitlab.com/gitlab-org/build/cng/gitaly:v19.3.1
+registry.gitlab.com/gitlab-org/build/cng/gitlab-base:v19.3.1
+registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v19.3.1
+registry.gitlab.com/gitlab-org/build/cng/gitlab-toolbox-ce:v19.3.1
+registry.gitlab.com/gitlab-org/build/cng/gitlab-webservice-ce:v19.3.1
+registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v19.3.1
+registry.gitlab.com/gitlab-org/build/cng/kubectl:v19.3.1

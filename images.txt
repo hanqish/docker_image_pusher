@@ -7,4 +7,4 @@ registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:v14.57.3
 registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v19.4.1
 registry.gitlab.com/gitlab-org/build/cng/gitlab-toolbox-ce:v19.4.1
 registry.gitlab.com/gitlab-org/build/cng/gitlab-webservice-ce:v19.4.1
-registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v19.4.
+registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v19.4.1
